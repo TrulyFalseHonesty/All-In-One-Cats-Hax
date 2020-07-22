@@ -2,7 +2,7 @@
 ## Installation
 Open console and paste this:
 
-```bash (wget https://raw.githubusercontent.com/TrulyFalseHonesty/Catbot-One-Command-Install/master/command)```
+```bash <(wget -qO- https://raw.githubusercontent.com/TrulyFalseHonesty/Catbot-One-Command-Install/master/command)```
 
 Note: You'll need to enter your auth password a couple times, the number of bots you need...
       So you might want to check the terminal from time to time in case the installation is hang on one of theses processes.
