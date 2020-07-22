@@ -14,4 +14,3 @@ Open console and paste this:
       cathook             attach cathook to TF2 (Cheat)
       accounts            edit the accounts list (should follow the username:password format)
       ipc-password        prints your IPC webpanel password to the terminal```
-   
