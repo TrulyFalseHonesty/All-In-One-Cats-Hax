@@ -1,6 +1,7 @@
 # Catbots-All-In-One-Install
 ## Installation
 Open console and paste this:
+
 ```bash (wget https://raw.githubusercontent.com/TrulyFalseHonesty/Catbot-One-Command-Install/master/command)```
 
 Note: You'll need to enter your auth password a couple times, the number of bots you need...
