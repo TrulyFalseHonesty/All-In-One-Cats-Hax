@@ -5,7 +5,7 @@ Open console and paste this:
 
 ## Commands & Usage
 (Theses commands are to be executer in the terminal)
-  `usage: catbot [OPTION]
+  ```usage: catbot [OPTION]
   where OPTION could be:
       start               start the bots
       stop                stop them
@@ -13,5 +13,5 @@ Open console and paste this:
       uninstall           uninstall catbot & cathook
       cathook             attach cathook to TF2 (Cheat)
       accounts            edit the accounts list (should follow the username:password format)
-      ipc-password        prints your IPC webpanel password to the terminal`
+      ipc-password        prints your IPC webpanel password to the terminal```
    
