@@ -10,8 +10,8 @@ Note: You'll need to enter your auth password a couple times, the number of bots
 ## Commands & Usage
 (Theses commands are to be executed in the terminal)
   ```
-  usage: catbot [OPTION]
-  where OPTION could be:
+  usage: catbot <operation>
+  operations:
       start               start the bots
       stop                stop them
       update              update catbot & cathook
