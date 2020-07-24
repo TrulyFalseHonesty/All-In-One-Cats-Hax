@@ -1,21 +1,16 @@
 # Catbots-All-In-One-Install
 ## Installation
-Open console and paste this:
 
-```source <(wget -qO- https://raw.githubusercontent.com/TrulyFalseHonesty/All-In-One-Cats-Hax/master/command)```
+cathook:
+```source <(wget -qO- https://raw.githubusercontent.com/TrulyFalseHonesty/All-In-One-Cats-Hax/master/cathook-install)```
+
+catbot:
+```source <(wget -qO- https://raw.githubusercontent.com/TrulyFalseHonesty/All-In-One-Cats-Hax/master/catbot-install)```
 
 Note: You'll need to enter your auth password a couple times, the number of bots you need, the instalation path...
       So you might want to check the terminal from time to time in case the installation is hang on one of theses processes.
 
+Note 2: You must install cathook before catbot!!!
+
 ## Commands & Usage
-(Theses commands are to be executed in the terminal)
-  ```
-  usage: catbot <operation>
-  operations:
-      start               start the bots
-      stop                stop them
-      update              update catbot & cathook
-      uninstall           uninstall catbot & cathook
-      cathook             attach cathook to TF2 (Cheat)
-      accounts            edit the accounts list (should follow the username:password format)
-      ipc-password        prints your IPC webpanel password to the terminal
+`JuSt TyPe cathook AnD catbot iN tHe TeRmInAl!`
